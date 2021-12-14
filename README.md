@@ -15,7 +15,7 @@ Edit LOG_GROUP to your loggroups id (or disable it and keep the stock value)
 
 Edit GROUPS_TO_PROTECT to the the group you want to protect (bot will delete messages sent from channel)
 
-If you want to log keep LOG to true, if you dont need any logging set LOG = false (set LOG_GROUP if you want to log)
+If you want to log the hole message info keep LOG to "max" for a little overview message info, set LOG to "nice", if you dont need any logging set LOG = false (set LOG_GROUP if you want to log)
 
 Add the bot in every group you want to protect with the admin privilegs "can_delete_messages"
 
